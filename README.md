@@ -1,6 +1,6 @@
 # Project: VAST Challenge 2021 MC-2
 
-Check it out [here](https://niketan16.github.io/DV-Vast-Challenge-2021-MC2/)
+Check it out [here](https://18bce133.github.io/DV-Vast-Challenge-2021-MC2/)
 
 ### Team Members:
 Nihar Thakkar - njthakkar@asu.edu
